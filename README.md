@@ -1,29 +1,17 @@
-# Foundation Compass Template
+# Material Guideline Template
 
-The easiest way to get started with Foundation + Compass.
+This is a material guideline template we use for most of our client project.
+It helps us speed up the process and create a unified package of deliverable for the clients.
 
 ## Requirements
+    
+This template was built using Foundation frameworks with SASS. You can customizing it by editing the html & CSS. But in order for it to work flawlessly you might need to have these installed:
 
   * Ruby 1.9+
   * [Node.js](http://nodejs.org)
   * [compass](http://compass-style.org/): `gem install compass`
   * [bower](http://bower.io): `npm install bower -g`
 
-## Quickstart
+## Demo 
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
-
-```bash
-bundle exec compass watch
-```
-
-## Upgrading
-
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
+http://clients.fifthtribe.com/styleguide/
